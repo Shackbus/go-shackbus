@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message GreeterRequest{
+    string text = 1;
+    float num = 2;
+}
+
+message GreeterResponse{
+    string text = 1;
+    float num = 2;
+}

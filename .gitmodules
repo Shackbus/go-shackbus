@@ -1,0 +1,3 @@
+[submodule "message-icds"]
+	path = message-icds
+	url = https://github.com/shackbus/message-icds
